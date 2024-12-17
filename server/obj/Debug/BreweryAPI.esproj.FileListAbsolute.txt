@@ -1,0 +1,1 @@
+C:\Users\pruck\source\repos\BreweryAPI\obj\Debug\BreweryAPI.esproj.CoreCompileInputs.cache

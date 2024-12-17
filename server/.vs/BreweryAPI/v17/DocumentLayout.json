@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pruck\\source\\repos\\BreweryAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F06353D0-5519-4B48-A26D-4E6D8C775980}|BreweryAPI.esproj|c:\\users\\pruck\\source\\repos\\breweryapi\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F06353D0-5519-4B48-A26D-4E6D8C775980}|BreweryAPI.esproj|solutionrelative:app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06353D0-5519-4B48-A26D-4E6D8C775980}|BreweryAPI.esproj|c:\\users\\pruck\\source\\repos\\breweryapi\\project_migration_log.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F06353D0-5519-4B48-A26D-4E6D8C775980}|BreweryAPI.esproj|solutionrelative:project_migration_log.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\pruck\\source\\repos\\BreweryAPI\\app.js",
+              "RelativeDocumentMoniker": "app.js",
+              "ToolTip": "C:\\Users\\pruck\\source\\repos\\BreweryAPI\\app.js",
+              "RelativeToolTip": "app.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-16T19:35:29.861Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PROJECT_MIGRATION_LOG.txt",
+              "DocumentMoniker": "C:\\Users\\pruck\\source\\repos\\BreweryAPI\\PROJECT_MIGRATION_LOG.txt",
+              "RelativeDocumentMoniker": "PROJECT_MIGRATION_LOG.txt",
+              "ToolTip": "C:\\Users\\pruck\\source\\repos\\BreweryAPI\\PROJECT_MIGRATION_LOG.txt",
+              "RelativeToolTip": "PROJECT_MIGRATION_LOG.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-16T19:34:56.18Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

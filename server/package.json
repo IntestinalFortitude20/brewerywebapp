@@ -1,0 +1,29 @@
+{
+  "name": "brewery-api",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "description": "BreweryAPI",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "body-parser": "^1.15.0",
+    "cookie-parser": "^1.4.0",
+    "cors": "^2.8.5",
+    "debug": "^2.2.0",
+    "express": "^4.14.0",
+    "morgan": "^1.7.0",
+    "pug": "^3.0.3",
+    "serve-favicon": "^2.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0",
+    "nodemon": "^3.1.9"
+  },
+  "eslintConfig": {}
+}
